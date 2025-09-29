@@ -1,5 +1,5 @@
 
-Gimel Foundation GmbH LDA e.c.	 
+Gimel Foundation LDA e.c.	 
 
 Author: Dr. Goetz G. Wehberg, Digital Supply Institute
 
